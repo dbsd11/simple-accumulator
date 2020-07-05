@@ -1,5 +1,4 @@
 # simple-accumulator
-# simple-accumulator
 数据摄入测试
  @Autowired
  private DataInTakeService dataInTakeService;
