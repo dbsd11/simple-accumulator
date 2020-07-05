@@ -7,7 +7,7 @@ public class AccumulatorConstants {
 
     public static Long REDIS_KEY_EXPIRE = 7 * 24 * 3600L;
 
-    public static String REDIS_KEY_PREFIX = "sre:accumulator";
+    public static String REDIS_KEY_PREFIX = "test:accumulator";
 
     public static String REDIS_KEY_SPLIT = ":";
 
